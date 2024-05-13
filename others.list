@@ -17,7 +17,6 @@ host-keyword, yfamily, proxy
 host-keyword, lendcloud, proxy
 host-keyword, dashboard, proxy
 host-keyword, github, proxy
-host-keyword, gitlab, proxy
 
 #直连
 
