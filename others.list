@@ -8,7 +8,6 @@ host-keyword, xsus, proxy
 host-keyword, mofa666, proxy
 host-keyword, dler, proxy
 host-keyword, jable, proxy
-host-keyword, netflix, Netflix
 host-keyword, xoxtvs, proxy
 host-keyword, magicyun, proxy
 host-keyword, jinglongyu, proxy
@@ -27,3 +26,7 @@ host-keyword, sharepoint.com, direct
 host-keyword, subreg, direct
 host-keyword, kuromi, direct
 host-keyword, appraven, direct
+
+#Netflix
+
+host-keyword, netflix, Netflix
