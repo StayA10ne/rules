@@ -1,0 +1,34 @@
+#代理
+
+host-keyword, wonderstruck.free, proxy
+host-keyword, network-proxy, proxy
+host-keyword, xttlove, proxy
+host-keyword, yuyan, proxy
+host-keyword, xsus, proxy
+host-keyword, mofa666, proxy
+host-keyword, dler, proxy
+host-keyword, jable, proxy
+host-keyword, xoxtvs, proxy
+host-keyword, magicyun, proxy
+host-keyword, jinglongyu, proxy
+host-keyword, boxjs, proxy
+host-keyword, wsfsa, proxy
+host-keyword, yfamily, proxy
+host-keyword, lendcloud, proxy
+host-keyword, dashboard, proxy
+host-keyword, github, proxy
+host-keyword, gitlab.com, proxy
+
+#直连
+
+host-keyword, jp.wonderstruck, direct
+host-keyword, hdhive, direct
+host-keyword, ehffou, direct
+host-keyword, sharepoint.com, direct
+host-keyword, subreg, direct
+host-keyword, kuromi, direct
+host-keyword, appraven, direct
+
+#Netflix
+
+host-keyword, netflix, Netflix
