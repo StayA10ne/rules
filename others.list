@@ -16,6 +16,7 @@ host-keyword, wsfsa, proxy
 host-keyword, yfamily, proxy
 host-keyword, lendcloud, proxy
 host-keyword, dashboard, proxy
+host-keyword, github, proxy
 
 #直连
 
