@@ -1,6 +1,6 @@
 #代理
 
-#host-keyword, wonderstruck.free, proxy
+host-keyword, wonderstruck.free, proxy
 host-keyword, network-proxy, proxy
 host-keyword, xttlove, proxy
 host-keyword, yuyan, proxy
@@ -21,7 +21,7 @@ host-keyword, gitlab.com, proxy
 
 #直连
 
-host-keyword, jp.wonderstruck, direct
+#host-keyword, jp.wonderstruck, direct
 host-keyword, hdhive, direct
 host-keyword, ehffou, direct
 host-keyword, sharepoint.com, direct
