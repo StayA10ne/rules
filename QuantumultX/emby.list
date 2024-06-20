@@ -2,11 +2,10 @@
 
 host-keyword, magpie, Magpie
 host-keyword, 2392kr.top, Magpie
-host-keyword, 2392ge.top, Magpie
-host-keyword, us11.xyz, Magpie
+#host-keyword, 2392ge.top, Magpie
+#host-keyword, us11.xyz, Magpie
+
 host-keyword, andox.me, Magpie
-
-
 
 
 #Emby直连
