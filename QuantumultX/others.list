@@ -5,7 +5,6 @@ host-keyword, network-proxy, proxy
 host-keyword, xttlove, proxy
 host-keyword, yuyan, proxy
 host-keyword, xsus, proxy
-host-keyword, dler, proxy
 host-keyword, xoxtvs, proxy
 host-keyword, magicyun, proxy
 host-keyword, jinglongyu, proxy
@@ -27,6 +26,7 @@ host-keyword, subreg, direct
 #host-keyword, kuromis, direct
 host-keyword, appraven, direct
 host-keyword, mofa666, direct
+host-keyword, dler, direct
 
 #Netflix
 
