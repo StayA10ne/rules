@@ -1,6 +1,6 @@
 #反代
 
-host-keyword, magpie, Magpie
+host-keyword, magpie.bond, Magpie
 host-keyword, 2392ge.top, Magpie
 host-keyword, stark2, Magpie
 
@@ -40,6 +40,7 @@ host-keyword, kr.955557, EmbyD
 
 #Emby代理
 
+host-keyword, magpie.cyou, Emby
 host-keyword, prisms.cc, Emby
 host-keyword, emby.kim, Emby
 host-keyword, charontv, Emby
