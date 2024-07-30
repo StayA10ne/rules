@@ -16,6 +16,7 @@ host-keyword, dashboard, proxy
 host-keyword, functions.fileball, proxy
 host-keyword, github, proxy
 host-keyword, gitlab.com, proxy
+host-keyword, mofa666, proxy
 
 #直连
 
@@ -25,7 +26,6 @@ host-keyword, sharepoint.com, direct
 host-keyword, subreg, direct
 host-keyword, kuromis, direct
 host-keyword, appraven, direct
-host-keyword, mofa666, direct
 host-keyword, dler, direct
 
 #Netflix
