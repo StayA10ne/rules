@@ -18,7 +18,7 @@ host-keyword, github, proxy
 host-keyword, gitlab.com, proxy
 host-keyword, mofa666, proxy
 host-keyword, kuromis, proxy
-host-keyword, huacloud, proxy
+
 
 
 #直连
@@ -29,6 +29,7 @@ host-keyword, sharepoint.com, direct
 host-keyword, subreg, direct
 host-keyword, appraven, direct
 host-keyword, dler, direct
+host-keyword, huacloud, direct
 
 #Netflix
 
