@@ -18,6 +18,8 @@ host-keyword, github, proxy
 host-keyword, gitlab.com, proxy
 host-keyword, mofa666, proxy
 host-keyword, kuromis, proxy
+host-keyword, huacloud, proxy
+
 
 #直连
 
