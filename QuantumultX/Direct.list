@@ -8,3 +8,4 @@ host-keyword, appraven, direct
 host-keyword, dler, direct
 host-keyword, kuromis, direct
 host-keyword, yxvm, direct
+ip-cidr, 140.238.20.27/24, direct
