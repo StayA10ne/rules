@@ -1,1 +1,10 @@
+#直连Direct
 
+DOMAIN-KEYWORD, hdhive, direct
+DOMAIN-KEYWORD, ehffou, direct
+DOMAIN-KEYWORD, sharepoint.com, direct
+DOMAIN-KEYWORD, subreg, direct
+DOMAIN-KEYWORD, appraven, direct
+DOMAIN-KEYWORD, dler, direct
+DOMAIN-KEYWORD, yxvm, direct
+IP-CIDR, 140.238.20.27/24, direct
